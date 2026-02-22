@@ -17,3 +17,17 @@ Additionally, it helps simulate real-world business operations through a relatio
 * **Interaction** : Records communication history between employees and customers.
 * **Sales** : Records sales transactions including product, date, and amount.
 * **Tickets** : Stores customer support issues and their current status.
+
+<img width="1000" height="500" alt="image" src="https://github.com/Sonali21-design/CRM-System/blob/main/ER%20model.PNG?raw=true" />
+
+## ⭐ Key Features
+* Structured relational database design for efficient CRM data management.
+* Organized storage of customer and employee information for easy access.
+* Tracking of sales transactions including product details and amounts.
+* Management of customer support tickets with status tracking system.
+* Recording of customer interactions and communication history effectively.
+* Efficient data retrieval and analysis using SQL queries.
+
+## 🛠️ Tool used
+* MySQL (Database Management System).
+* SQL (Structured Query Language).
